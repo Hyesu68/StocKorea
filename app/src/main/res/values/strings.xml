@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">StocKorea</string>
+    <string name="days_7">7 days</string>
+    <string name="days_30">30 days</string>
+    <string name="days_365">365 days</string>
+    <string name="purchase_date">purchase date</string>
+    <string name="purchase_price">purchase price</string>
+    <string name="purchase_quantity">purchase quantity</string>
+    <string name="selling_date">selling date</string>
+    <string name="selling_price">selling price</string>
+    <string name="selling_quantity">selling quantity</string>
+    <string name="result">result</string>
+    <string name="profit_and_loss">profit and loss:</string>
+    <string name="main">Main</string>
+    <string name="bookmarks">bookmarks</string>
+</resources>
